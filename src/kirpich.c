@@ -17,7 +17,7 @@
 #define endLn() printf("\n")
 
 
-#define loopSdelay(count) for(int i = 0; i < num; i++)
+#define loopSdelay(count) for(int i = 0; i < count; i++)
 #define dlya for
 #define funcia void
 
