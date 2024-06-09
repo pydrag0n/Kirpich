@@ -1,15 +1,16 @@
-<center> 
-![](logo.png)
-</center> 
+<p align="center">
+  <img src="logo.png">
+</p>
 
-<center>
+<p align="center">
+  <a href="#RU"><img src="https://img.shields.io/badge/Doc-RU-red?style=flat-square&logo=github"></a>
+  <a href="#EN"><img src="https://img.shields.io/badge/Doc-EN-blue?style=flat-square&logo=list"></a>
 
-[![](https://img-shields-io/badge/Doc-RU-red?style=flat-square&logo=github)](#RU)
-[![](https://img-shields-io/badge/Doc-EN-blue?style=flat-square&logo=list)](#EN)
+  # Kirpich Programming Language
+
+</p>
 
 
-# Kirpich Programming Language
-</center>
 
 
 ## EN
